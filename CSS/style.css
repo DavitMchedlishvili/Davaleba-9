@@ -8,7 +8,7 @@
     align-items: center;
 }
 
-
+/* Header */
 
 header{
     margin: 52px auto 60px auto;
@@ -44,6 +44,14 @@ section{
     
 }
 
+/* Header - finish  */
+
+
+
+
+
+
+/* Section 1  */
 
 .section1{
     margin: 0 auto 138px auto;
@@ -55,7 +63,14 @@ section{
     
 }
 
+/* Section 1 - finish */
 
+
+
+
+
+
+/* Section 2  */
 
 .section2{
     margin: 0 auto;
@@ -119,7 +134,7 @@ section{
 }
 
 
-
+/* Button  */
 
 .button1{
     width: 145px;
@@ -139,7 +154,20 @@ section{
     color: #707070;
     
 }
+ 
 
+/* Button - finish  */
+
+
+
+
+
+
+
+
+
+
+/* Section 3 */
 
 
 
@@ -161,7 +189,15 @@ section{
     border: 2px solid gray;
 }
 
+/* Section 3 - finish */
 
+
+
+
+
+
+
+/* Footer  */
 
 
 
@@ -208,6 +244,13 @@ footer{
     gap: 10px;
 }
 
+
+
+/* Footer - finish  */
+
+
+
+/* CHanges for resolutions */
 
 
 @media screen and (max-width: 480px){
