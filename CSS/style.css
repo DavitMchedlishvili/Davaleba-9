@@ -336,6 +336,7 @@ footer{
         display: flex;
         flex-direction: column;
         gap: 50px;
+        
     }
 
     .footericon{
@@ -353,6 +354,13 @@ footer{
     .address{
         text-align: center;
     }
+
+
+    .medialinks{
+        margin: 0 auto;
+    }
+
+   
     
 
 
